@@ -193,7 +193,7 @@ body {
   color: #d7d7d7;
   transition: 0.5s;
 }
-.box form input [type="submit"] {
+.login_btn {
   border: none;
   outline: none;
   padding: 9px 25px;
